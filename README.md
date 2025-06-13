@@ -1,9 +1,8 @@
-## <center>👋 Hi there</center>
+## 👋 Hi there
 A student studying to create software and applying data analysis for the LUVOIR-A or LUVOIR-B someday. Also an indie game hobbyist. Anyways, thanks for checking out my profile!
-https://preview.redd.it/0ant018pba971.png?width=1080&crop=smart&auto=webp&s=c3761821fbeb819541bbe26f269c027e9fe3c0a6
+<img src="https://preview.redd.it/0ant018pba971.png?width=1080&crop=smart&auto=webp&s=c3761821fbeb819541bbe26f269c027e9fe3c0a6">
 
 ## Tools
-<center>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,17 +22,13 @@ https://preview.redd.it/0ant018pba971.png?width=1080&crop=smart&auto=webp&s=c376
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-</center>
 
-## <center>🎯 Project Management</center>
-<center>
+## 🎯 Project Management
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)  
-</center>
 
-## <center>👾 Game Development</center>
-<center>
+## 👾 Game Development
 ![Ren'Py](https://a11ybadges.com/badge?logo=renpy)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)  
-</center>
+
