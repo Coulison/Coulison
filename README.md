@@ -4,8 +4,7 @@ A student studying to create software and applying data analysis for the LUVOIR-
 ![hippo](https://img.itch.zone/aW1nLzI2NDQ5NDkucG5n/original/3CDxl1.png)
 
 ## Tools
-![Ubuntu](https://storage.ko-fi.com/cdn/useruploads/display/47a08524-2905-47e3-81cc-a054c77c08d6_sprite-0001.gif)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
