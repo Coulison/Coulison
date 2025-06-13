@@ -1,9 +1,9 @@
 ## 👋 Hi there
 A student studying to create software and applying data analysis for the LUVOIR-A or LUVOIR-B someday. Also an indie game hobbyist. Anyways, thanks for checking out my profile!
-<img src="https://preview.redd.it/0ant018pba971.png?width=1080&crop=smart&auto=webp&s=c3761821fbeb819541bbe26f269c027e9fe3c0a6">
+![hippo](https://i.gifer.com/Qc5o.gif)
 
 ## Tools
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://storage.ko-fi.com/cdn/useruploads/display/47a08524-2905-47e3-81cc-a054c77c08d6_sprite-0001.gif)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
