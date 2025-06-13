@@ -1,7 +1,7 @@
 ## 👋 Hi there
 A student studying to create software and applying data analysis for the LUVOIR-A or LUVOIR-B someday. Also an indie game hobbyist. Anyways, thanks for checking out my profile!
 
-![hippo](https://storage.ko-fi.com/cdn/useruploads/post/61652eef-3e9a-4565-b1de-d1fc90e8ca1a_wallpaper.gif)
+![hippo](https://img.itch.zone/aW1nLzI2NDQ5NDkucG5n/original/3CDxl1.png)
 
 ## Tools
 ![Ubuntu](https://storage.ko-fi.com/cdn/useruploads/display/47a08524-2905-47e3-81cc-a054c77c08d6_sprite-0001.gif)
