@@ -9,7 +9,7 @@ A student studying to create software and applying data analysis for the LUVOIR-
     <img src="https://skillicons.dev/icons?i=arch,redhat,ubuntu,bash" />
     <img src="https://skillicons.dev/icons?i=py,tensorflow" />
     <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,cmake, go" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,cmake,go" />
     <img src="https://skillicons.dev/icons?i=js,ts,react,svelte,nextjs,npm,nodejs,bootstrap" />
     <img src="https://skillicons.dev/icons?i=aws,gcp" />
   </a>
